@@ -92,4 +92,9 @@ The dashboard allows you to explore:
 
 * `Spotify Dataset.csv` → Original dataset
 * `cleaned_spotify.csv` → Cleaned dataset for analysis
+
 * `Spotify_Dashboard.xlsx` → Final Excel dashboard
+
+---
+
+Dataset Source: [Spotify Tracks Dataset by Maharshi Pandya on Kaggle](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)  
